@@ -455,6 +455,12 @@ header {
     white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* khoảng cách giữa các mục, có thể điều chỉnh */
+    padding: 0;
+    margin: 0;
+    list-style: none;
 }
 
 .menu-link {
